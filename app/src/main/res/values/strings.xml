@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="stranger_things">Stranger Things</string>
+    <string name="continuing">Continuing</string>
+    <string name="netflix">Netflix</string>
+    <string name="rating">Rating:</string>
+    <string name="tv_14">TV-14</string>
+    <string name="date">2016-07-15</string>
+    <string name="first_air_date">First Air Date:</string>
+    <string name="seasons">Seasons</string>
+    <string name="season_1">Season 1</string>
+</resources>
