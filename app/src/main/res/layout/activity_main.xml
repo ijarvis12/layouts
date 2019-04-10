@@ -21,6 +21,7 @@ Seasons
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/text_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/stranger_things"
@@ -29,6 +30,7 @@ Seasons
         android:textStyle="bold" />
 
     <ImageView
+        android:id="@+id/image_show"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:scaleType="fitCenter"
